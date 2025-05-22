@@ -9,11 +9,11 @@ layout: page
 
   <img src="/assets/img/CNRS-logo.png" alt="CNRS" width="200" style="padding:10px;" />
   <img src="/assets/img/AHP-logo.png" alt="AHP" width="200" style="padding:10px;" />
-  <img src="/assets/img/UL-logo.jpg" alt="UL" width="200" style="padding:10px;" />
+  <img src="/assets/img/UL-logo.png" alt="UL" width="200" style="padding:10px;" />
   <img src="/assets/img/IHPST-logo.jpg" alt="IHPST" width="200" style="padding:10px;" />
-  <img src="/assets/img/PantheonSorbonne-logo.jpg" alt="Pantheon Sorbonne" width="200" style="padding:10px;" />
+  <img src="/assets/img/PantheonSorbonne-logo.png" alt="Pantheon Sorbonne" width="200" style="padding:10px;" />
   <img src="/assets/img/IJN-logo.jpg" alt="IJN" width="200" style="padding:10px;" />
-  <img src="/assets/img/ENS-logo.jpg" alt="ENS" width="200" style="padding:10px;" />
+  <img src="/assets/img/ENS-logo.png" alt="ENS" width="200" style="padding:10px;" />
 
 </div>
 
