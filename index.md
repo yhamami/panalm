@@ -5,13 +5,13 @@ layout: page
 
 ![title](/assets/img/NancyParisPicture.jpg){:style="display:block; margin-left:auto; margin-right:auto" width="800"}
 
-<div style="margin-top: 5px;"></div>
+<div style="margin-top: 10px;"></div>
 
 # About
 
 The **Paris-Nancy Colloquium in Logic and the Philosophy of Mathematics** or **PANALM** is a forum for general expository talks accessible and relevant for all researchers in logic and the philosophy of mathematics. Speakers are invited to describe a whole research line or program that they have been pursuing and present the main results they have obtained in a synoptic and didactic way. **PANALM** is run jointly by the [Institut d'Histoire et de Philosophie des Sciences et des Techniques (IHPST)](https://ihpst.pantheonsorbonne.fr/en) and the [Institut Jean Nicod (IJN)](http://www.institutnicod.org/?lang=en) in Paris and the [Archives Henri Poincaré (AHP)](https://poincare.univ-lorraine.fr/) in Nancy. Each of these institutions will welcome one session of PANALM per semester. PANALM is open to anyone interested, from students to researchers in neighboring disciplines.
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; align-items: center; margin: -10px;"> 
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; align-items: center; margin: -20px;"> 
   <img src="assets/img/AHP-logo.png" alt="AHP" width="150" style="padding:5px;" />
   <img src="assets/img/IHPST-logo.jpg" alt="IHPST" width="150" style="padding:5px;" />
   <img src="assets/img/IJN-logo.jpg" alt="IJN" width="150" style="padding:5px;" />
@@ -25,6 +25,7 @@ The **Paris-Nancy Colloquium in Logic and the Philosophy of Mathematics** or **P
 
 **Location: _TBA_**
 
+<div style="margin-top: 5px;"></div>
 
 ## AHP Session Fall 2025: Sean Walsh (UCLA) - _November 4, 2PM_
 
@@ -33,6 +34,8 @@ The **Paris-Nancy Colloquium in Logic and the Philosophy of Mathematics** or **P
 **Abstract: _TBA_**
 
 **Location: _TBA_**
+
+<div style="margin-top: 5px;"></div>
 
 ## IHPST Session Fall 2025: Aybüke Özgün (ILLC, University of Amsterdam) - _December 3, 11PM_
 
