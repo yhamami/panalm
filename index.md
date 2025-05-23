@@ -17,19 +17,9 @@ The **Paris-Nancy Colloquium in Logic and the Philosophy of Mathematics** or **P
   <img src="assets/img/IJN-logo.jpg" alt="IJN" width="150" style="padding:5px;" />
 </div>
 
-<div style="margin: 20px;"></div>
+<div style="margin: 40px;"></div>
 
-## IJN Session Fall 2025: Alex Paseau (Oxford University) - _September 30, 11AM_
-
-**Title: _TBA_**
-
-**Abstract: _TBA_**
-
-**Location: _TBA_**
-
-<div style="margin: 50px;"></div>
-
-## AHP Session Fall 2025: Sean Walsh (UCLA) - _November 4, 2PM_
+## IJN Session Fall 2025: [Alex Paseau (Oxford University)](https://www.philosophy.ox.ac.uk/people/alexander-paseau) - _September 30, 11AM_
 
 **Title: _TBA_**
 
@@ -39,7 +29,17 @@ The **Paris-Nancy Colloquium in Logic and the Philosophy of Mathematics** or **P
 
 <div style="margin: 50px;"></div>
 
-## IHPST Session Fall 2025: Aybüke Özgün (ILLC, University of Amsterdam) - _December 3, 11PM_
+## AHP Session Fall 2025: [Sean Walsh (UCLA)](https://philosophy.ucla.edu/person/sean-walsh/) - _November 4, 2PM_
+
+**Title: _TBA_**
+
+**Abstract: _TBA_**
+
+**Location: _TBA_**
+
+<div style="margin: 50px;"></div>
+
+## IHPST Session Fall 2025: [Aybüke Özgün (ILLC, University of Amsterdam)](https://sites.google.com/site/ozgunaybuke/) - _December 3, 11PM_
 
 **Title: _TBA_**
 
