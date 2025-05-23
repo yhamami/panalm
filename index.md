@@ -5,7 +5,7 @@ layout: page
 
 ![title](/assets/img/NancyParisPicture.jpg){:style="display:block; margin-left:auto; margin-right:auto" width="800"}
 
-<div style="margin-top: 20px;"></div>
+<div style="margin: 100px;"></div>
 
 # About
 
@@ -25,7 +25,7 @@ The **Paris-Nancy Colloquium in Logic and the Philosophy of Mathematics** or **P
 
 **Location: _TBA_**
 
-<div style="margin-top: 5px;"></div>
+<br>
 
 ## AHP Session Fall 2025: Sean Walsh (UCLA) - _November 4, 2PM_
 
@@ -35,7 +35,7 @@ The **Paris-Nancy Colloquium in Logic and the Philosophy of Mathematics** or **P
 
 **Location: _TBA_**
 
-<div style="margin-top: 5px;"></div>
+<br>
 
 ## IHPST Session Fall 2025: Aybüke Özgün (ILLC, University of Amsterdam) - _December 3, 11PM_
 
@@ -45,7 +45,8 @@ The **Paris-Nancy Colloquium in Logic and the Philosophy of Mathematics** or **P
 
 **Location: _TBA_**
 
- 
+<br>
+
 # Contact
 
 For any questions, please send an email to the organizers.
