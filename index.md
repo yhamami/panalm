@@ -5,10 +5,10 @@ layout: page
 
 ![title](/assets/img/NancyParisPicture.jpg){:style="display:block; margin-left:auto; margin-right:auto" width="800"}
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; align-items: center;">
-  <img src="assets/img/AHP-logo.png" alt="AHP" width="200" style="padding:10px;" />
-  <img src="assets/img/IHPST-logo.jpg" alt="IHPST" width="200" style="padding:10px;" />
-  <img src="assets/img/IJN-logo.jpg" alt="IJN" width="200" style="padding:10px;" />
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; align-items: center;"> 
+  <img src="assets/img/AHP-logo.png" alt="AHP" width="150" style="padding:10px;" />
+  <img src="assets/img/IHPST-logo.jpg" alt="IHPST" width="150" style="padding:10px;" />
+  <img src="assets/img/IJN-logo.jpg" alt="IJN" width="150" style="padding:10px;" />
 
 </div>
 
@@ -41,10 +41,12 @@ For any questions, please send an email to the organizers.
 The workshop is funded by ...
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; align-items: center;">
-  <img src="assets/img/CNRS-logo.png" alt="CNRS" width="100" style="padding:10px;" />
+  <img src="assets/img/CNRS-logo.png" alt="CNRS" width="80" style="padding:10px;" />
   <img src="assets/img/AHP-logo.png" alt="AHP" width="100" style="padding:10px;" />
   <img src="assets/img/UL-logo.png" alt="UL" width="100" style="padding:10px;" />
-  <img src="assets/img/IHPST-logo.jpg" alt="IHPST" width="100" style="padding:10px;" /> <br>
+  <img src="assets/img/IHPST-logo.jpg" alt="IHPST" width="100" style="padding:10px;" />
+  </div>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; align-items: center;">
   <img src="assets/img/PantheonSorbonne-logo.png" alt="Pantheon Sorbonne" width="200" style="padding:10px;" />
   <img src="assets/img/IJN-logo.jpg" alt="IJN" width="100" style="padding:10px;" />
   <img src="assets/img/ENS-logo.png" alt="ENS" width="100" style="padding:10px;" />
