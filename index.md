@@ -49,6 +49,10 @@ The **Paris-Nancy Colloquium in Logic and the Philosophy of Mathematics** or **P
 
 <div style="margin: 50px;"></div>
 
+# Registration
+
+The seminar is free and without registration. Everyone interested is welcome to attend.
+
 # Contact
 
 For any questions, please send an email to the organizers.
