@@ -39,7 +39,7 @@ The **Paris-Nancy Colloquium in Logic and the Philosophy of Mathematics** or **P
 
 <div style="margin: 50px;"></div>
 
-## IHPST Session Fall 2025: [Aybüke Özgün (ILLC, University of Amsterdam)](https://sites.google.com/site/ozgunaybuke/) - _December 3, 11PM_
+## IHPST Session Fall 2025: [Aybüke Özgün (ILLC, University of Amsterdam)](https://sites.google.com/site/ozgunaybuke/) - _December 3, 11AM_
 
 **Title: _TBA_**
 
