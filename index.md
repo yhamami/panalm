@@ -19,13 +19,17 @@ The **Paris-Nancy Colloquium in Logic and the Philosophy of Mathematics** or **P
 
 <div style="margin: 40px;"></div>
 
-## IJN Session Fall 2025: [Alex Paseau (Oxford University)](https://www.philosophy.ox.ac.uk/people/alexander-paseau) - _September 30, 11AM_
+## IJN Session Fall 2025: [Alexander Paseau (Oxford University)](https://www.philosophy.ox.ac.uk/people/alexander-paseau) - _September 30, 11AM_
 
-**Title: _TBA_**
+**Title: _The Euclidean programme_**
 
-**Abstract: _TBA_**
+**Abstract:** The Euclidean Programme embodies a traditional sort of epistemological foundationalism, according to which knowledge—especially mathematical knowledge—is obtained by deduction from self-evident axioms or first principles.  This talk, based on my book of the same name with Wesley Wrigley, will offer a detailed examination of Euclidean foundationalism, which, following Lakatos, we call the Euclidean Programme. In the talk, I will rationally reconstruct the programme’s key principles, showing it to be an epistemological interpretation of the axiomatic method. I will then assess the programme, exploring whether various areas of contemporary mathematics conform to it. 
 
-**Location: _TBA_**
+**Location:** Salle de réunion de l’Institut Jean Nicod, Rez-de-chaussé, Pavillon Jardin, 29 rue d’Ulm, 75005 Paris
+
+**Further reading:** No reading is required prior to the talk. However, if you would like to prepare for the talk or go deeper afterwards, you may consult:
+
+Alexander Paseau and Wesley Wrigley (2024). [_The Euclidean Programme_](https://www.cambridge.org/core/books/euclidean-programme/EA733F22CAE537D1A42A8EF904600EEA), Cambridge University Press, Cambridge.
 
 <div style="margin: 50px;"></div>
 
