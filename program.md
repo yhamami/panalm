@@ -54,15 +54,3 @@ Alexander Paseau and Wesley Wrigley (2024). [_The Euclidean Programme_](https://
 # Acknowledgement and Support
 
 The workshop is funded by by the [Institut d'Histoire et de Philosophie des Sciences et des Techniques (IHPST)](https://ihpst.pantheonsorbonne.fr/en), the [Institut Jean Nicod (IJN)](http://www.institutnicod.org/?lang=en) and the [Archives Henri Poincaré (AHP)](https://poincare.univ-lorraine.fr/).
-
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; align-items: center;">
-  <img src="/assets/img/CNRS-logo.png" alt="CNRS" width="80" style="padding:10px;" />
-  <img src="/assets/img/AHP-logo.png" alt="AHP" width="100" style="padding:10px;" />
-  <img src="/assets/img/UL-logo.png" alt="UL" width="100" style="padding:10px;" />
-  <img src="/assets/img/IHPST-logo.jpg" alt="IHPST" width="100" style="padding:10px;" />
-  </div>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; align-items: center;">
-  <img src="/assets/img/PantheonSorbonne-logo.png" alt="Pantheon Sorbonne" width="200" style="padding:10px;" />
-  <img src="/assets/img/IJN-logo.jpg" alt="IJN" width="100" style="padding:10px;" />
-  <img src="/assets/img/ENS-logo.png" alt="ENS" width="100" style="padding:10px;" />
-
