@@ -9,6 +9,8 @@ layout: page
 
 # About
 
+---
+
 The **Paris-Nancy Colloquium in Logic and the Philosophy of Mathematics** or **PANALM** is a forum for general expository talks accessible and relevant for all researchers in logic and the philosophy of mathematics. Speakers are invited to describe a whole research line or program that they have been pursuing and present the main results they have obtained in a synoptic and didactic way. **PANALM** is run jointly by the [Institut d'Histoire et de Philosophie des Sciences et des Techniques (IHPST)](https://ihpst.pantheonsorbonne.fr/en) and the [Institut Jean Nicod (IJN)](http://www.institutnicod.org/?lang=en) in Paris and the [Archives Henri Poincaré (AHP)](https://poincare.univ-lorraine.fr/) in Nancy. Each of these institutions will welcome one session of PANALM per semester. PANALM is open to anyone interested, from students to researchers in neighboring disciplines.
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; align-items: center; margin: -40px;"> 
@@ -18,6 +20,10 @@ The **Paris-Nancy Colloquium in Logic and the Philosophy of Mathematics** or **P
 </div>
 
 <div style="margin: 40px;"></div>
+
+# Program
+
+---
 
 ## IJN Session Fall 2025: [Alexander Paseau (Oxford University)](https://www.philosophy.ox.ac.uk/people/alexander-paseau) - _September 30, 11AM_
 
@@ -52,6 +58,8 @@ Alexander Paseau and Wesley Wrigley (2024). [_The Euclidean Programme_](https://
 **Location: _TBA_**
 
 <div style="margin: 50px;"></div>
+
+---
 
 # Registration
 
