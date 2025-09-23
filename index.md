@@ -39,11 +39,23 @@ Alexander Paseau and Wesley Wrigley (2024). [_The Euclidean Programme_](https://
 
 ## AHP Session Fall 2025: [Sean Walsh (UCLA)](https://philosophy.ucla.edu/person/sean-walsh/) - _November 4, 2PM_
 
-**Title: _TBA_**
+**Title: _Model completions, model theory, and ideal elements_**
 
-**Abstract: _TBA_**
+**Abstract:** Manders (1989) suggested that the model-theoretic notion of model completion could help conceptualize the rationale behind the choice of ideal elements in mathematics. Bellomo (2021) usefully compares and contrasts this to the idea of 'domain expansion' that one finds in the principle of permanence, which has many connections to the Hilbert program (cf. Detlefsen 2005). The Hilbert program has given rise to much within mathematical logic, and can be viewed through the lens of reverse mathematics (Simpson 1988, Simpson 1999). In this talk, we look at Manders' preferred method of domain extension in the framework of reverse mathematics. It is one way of trying to understand how hard it is to find the types of models at issue in model completions when they exist.
 
 **Location: _TBA_**
+
+**Further reading:** No reading is required prior to the talk. However, if you would like to prepare for the talk or go deeper afterwards, you may consult:
+
+Bellomo, Anna, 2021. “Domain Extension and Ideal Elements in Mathematics.” _Philosophia Mathematica_, Series III 29 (3): 366–91.
+
+Detlefsen, Michael, 2005. “Formalism.” In _The Oxford Handbook of Philosophy of Mathematics and Logic_, edited by Stewart Shapiro. Oxford University Press.
+
+Manders, Kenneth, 1989. “Domain Extension and the Philosophy of Mathematics.” _The Journal of Philosophy_, 86 (10): 553–62.
+
+S. G. Simpson, 1999. _Subsystems of Second Order Arithmetic. Perspectives in Mathematical Logic_. Springer- Verlag, Berlin.
+
+S. G. Simpson, 1988. Partial realizations of Hilbert’s program. _Journal of Symbolic Logic_, 53(2):349–363.
 
 <div style="margin: 50px;"></div>
 
