@@ -43,7 +43,7 @@ Alexander Paseau and Wesley Wrigley (2024). [_The Euclidean Programme_](https://
 
 **Abstract:** Manders (1989) suggested that the model-theoretic notion of model completion could help conceptualize the rationale behind the choice of ideal elements in mathematics. Bellomo (2021) usefully compares and contrasts this to the idea of 'domain expansion' that one finds in the principle of permanence, which has many connections to the Hilbert program (cf. Detlefsen 2005). The Hilbert program has given rise to much within mathematical logic, and can be viewed through the lens of reverse mathematics (Simpson 1988, Simpson 1999). In this talk, we look at Manders' preferred method of domain extension in the framework of reverse mathematics. It is one way of trying to understand how hard it is to find the types of models at issue in model completions when they exist.
 
-**Location: _TBA_**
+**Location:** Amphithéâtre Léopold, Présidence Léopold, 34 cours Léopold, 54000 Nancy [link google maps](https://maps.app.goo.gl/osTEPMyUdzaf6cqz7)
 
 **Further reading:** No reading is required prior to the talk. However, if you would like to prepare for the talk or go deeper afterwards, you may consult:
 
