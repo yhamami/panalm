@@ -9,6 +9,41 @@ layout: page
 
 # Program
 
+## IJN Session Spring 2026: [John MacFarlane (UC Berkeley)](https://johnmacfarlane.net/) - _February 3, 11AM_
+
+**Title: _Felicitous underspecification_**
+
+**Abstract:** In recent work, Jeffrey King has called our attention to the problem of “felicitous underspecification”: felicitous uses of context-sensitive language in the absence of determinate intentions about the needed contextual supplementation. An example would be talk of a “local shop” in the absence of a determinate intention about whether we mean local-to-the-city or local-to-the-county. After discussing the problems raised by this phenomenon, I consider King's own solution and argue that it is inadequate. I then describe the solution I think is needed, which makes use of the ideas from Allan Gibbard's plan expressivism. According to this approach, ordinary descriptive claims like "I went to a local shop" must be understood as expressive of practical plans for the use of words, as well as ordinary beliefs. Indeterminacy amounts to practical indecision. 
+
+**Location:** Salle de réunion de l’Institut Jean Nicod, Rez-de-chaussé, Pavillon Jardin, 29 rue d’Ulm, 75005 Paris [(link google maps)](https://maps.app.goo.gl/NcC2jNzE4dQH5WUq5)
+
+<div style="margin: 50px;"></div>
+
+---
+
+## AHP Session Spring 2026: [Carolin Antos (Universität Konstanz)](https://carolin-antos.net/) - _March 30, 11AM_
+
+**Title: _TBA_**
+
+**Abstract:** TBA
+
+**Location:** TBA
+
+<div style="margin: 50px;"></div>
+
+---
+
+## IHPST Session Spring 2026: [Paolo Mancosu (UC Berkeley)](https://philosophy.berkeley.edu/mancosu/) - _May 12, 2PM_
+
+**Title: _TBA_**
+
+**Abstract:** TBA
+
+**Location:** Salle de Conférence de l'IHPST, Université Paris 1 Panthéon-Sorbonne, Maison de la Philosophie-Marin Mersenne, 2nd floor, 13 rue du Four, 75006 Paris [(link google maps)](https://maps.app.goo.gl/pvNNZ2KokxKcd7iy5)
+
+<div style="margin: 50px;"></div>
+
+---
 
 ## IJN Session Fall 2025: [Alexander Paseau (Oxford University)](https://www.philosophy.ox.ac.uk/people/alexander-paseau) - _September 30, 11AM_
 
