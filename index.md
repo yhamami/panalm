@@ -35,11 +35,11 @@ The **Paris-Nancy Colloquium in Logic and the Philosophy of Mathematics** or **P
 
 ## AHP Session Spring 2026: [Carolin Antos (Universität Konstanz)](https://carolin-antos.net/) - _March 30, 11AM_
 
-**Title: _TBA_**
+**Title: _New insights into mathematical reasoning: The use of examples in mathematics_**
 
-**Abstract:** TBA
+**Abstract:** Mathematical reasoning is often characterised by the use of deduction in justification and abstraction in theory building and concept development. Both of these aspects contribute significantly to the stringency and fruitfulness of mathematics. Using examples in reasoning does not seem to fit this picture: It involves single cases or other kinds of specification and it does not allow for the deduction of general principles. Still, for mathematicians, example use is one of their main tools when doing research. In this talk I provide an overview of where and why examples are used in mathematics, and how the apparent tension to the usual conception of mathematical reasoning can be overcome. 
 
-**Location:** TBA
+**Location:** Salle internationale (324, 3rd floor), Archives Henri Poincaré, 91 avenue de la Libération, 54001 Nancy [(link google maps)](https://maps.app.goo.gl/jfhKWyRVknFEQHr19) 
 
 <div style="margin: 50px;"></div>
 
