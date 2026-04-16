@@ -47,9 +47,9 @@ The **Paris-Nancy Colloquium in Logic and the Philosophy of Mathematics** or **P
 
 ## IHPST Session Spring 2026: [Paolo Mancosu (UC Berkeley)](https://philosophy.berkeley.edu/mancosu/) - _May 12, 2PM_
 
-**Title: _TBA_**
+**Title: _Abstraction principles and part-whole: a retrospective survey_**
 
-**Abstract:** TBA
+**Abstract:** In this talk, I will give a survey of my work on the interaction between abstraction principles in neologicism and the part-whole property for Fregean concepts. Two Fregean concepts A and B stand in the relation of part-whole just in case the objects that fall under A are strictly included in the objects that fall under B. An abstraction principle with abstraction operator \$ satisfies part-whole just in case it tracks the part-whole property, that is whenever A is strictly included in B then \$(A)≠\$(B). I will first discuss abstraction principles that satisfy part-whole and how they relate to the bad company objection for neologicism. Then I will look at principles that do not satisfy part-whole and how they relate to the good company objection for neologicism.
 
 **Location:** Salle de Conférence de l'IHPST, Université Paris 1 Panthéon-Sorbonne, Maison de la Philosophie-Marin Mersenne, 2nd floor, 13 rue du Four, 75006 Paris [(link google maps)](https://maps.app.goo.gl/pvNNZ2KokxKcd7iy5)
 

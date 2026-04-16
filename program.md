@@ -23,11 +23,11 @@ layout: page
 
 ## AHP Session Spring 2026: [Carolin Antos (Universität Konstanz)](https://carolin-antos.net/) - _March 30, 11AM_
 
-**Title: _TBA_**
+**Title: _New insights into mathematical reasoning: The use of examples in mathematics_**
 
-**Abstract:** TBA
+**Abstract:** Mathematical reasoning is often characterised by the use of deduction in justification and abstraction in theory building and concept development. Both of these aspects contribute significantly to the stringency and fruitfulness of mathematics. Using examples in reasoning does not seem to fit this picture: It involves single cases or other kinds of specification and it does not allow for the deduction of general principles. Still, for mathematicians, example use is one of their main tools when doing research. In this talk I provide an overview of where and why examples are used in mathematics, and how the apparent tension to the usual conception of mathematical reasoning can be overcome. 
 
-**Location:** TBA
+**Location:** Salle internationale (324, 3rd floor), Archives Henri Poincaré, 91 avenue de la Libération, 54001 Nancy [(link google maps)](https://maps.app.goo.gl/jfhKWyRVknFEQHr19) 
 
 <div style="margin: 50px;"></div>
 
@@ -35,9 +35,9 @@ layout: page
 
 ## IHPST Session Spring 2026: [Paolo Mancosu (UC Berkeley)](https://philosophy.berkeley.edu/mancosu/) - _May 12, 2PM_
 
-**Title: _TBA_**
+**Title: _Abstraction principles and part-whole: a retrospective survey_**
 
-**Abstract:** TBA
+**Abstract:** In this talk, I will give a survey of my work on the interaction between abstraction principles in neologicism and the part-whole property for Fregean concepts. Two Fregean concepts A and B stand in the relation of part-whole just in case the objects that fall under A are strictly included in the objects that fall under B. An abstraction principle with abstraction operator \$ satisfies part-whole just in case it tracks the part-whole property, that is whenever A is strictly included in B then \$(A)≠\$(B). I will first discuss abstraction principles that satisfy part-whole and how they relate to the bad company objection for neologicism. Then I will look at principles that do not satisfy part-whole and how they relate to the good company objection for neologicism.
 
 **Location:** Salle de Conférence de l'IHPST, Université Paris 1 Panthéon-Sorbonne, Maison de la Philosophie-Marin Mersenne, 2nd floor, 13 rue du Four, 75006 Paris [(link google maps)](https://maps.app.goo.gl/pvNNZ2KokxKcd7iy5)
 
