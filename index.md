@@ -31,6 +31,8 @@ Previous speakers in PANALM include Alexander Paseau (Oxford University), Sean W
 
 **Location:** Salle internationale (324, 3rd floor), Archives Henri Poincaré, 91 avenue de la Libération, 54001 Nancy [(link google maps)](https://maps.app.goo.gl/jfhKWyRVknFEQHr19) 
 
+This session is part of the **2nd Nancy–Irvine FaTiLLaM Workshop** on **_Formalization as Translation in Logic, Language, and Mathematics_**. The program of the workshop is available [here](https://fatillam.github.io/2nd-Nancy-Irvine-FaTiLLaM-workshop/).
+
 <div style="margin: 50px;"></div>
 
 ---
