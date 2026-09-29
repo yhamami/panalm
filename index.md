@@ -37,11 +37,11 @@ This session is part of the **2nd Nancy–Irvine FaTiLLaM Workshop** on **_Forma
 
 ---
 
-## IJN Session Fall 2026: [TBA] - _TBA_
+## IJN Session Fall 2026: [Michael Caie](https://sites.google.com/site/caiemike/?pli=1&authuser=0) - _November 3, 11AM_
 
-**Title: _TBA_**
+**Title: _Names and Higher-Order Logic_**
 
-**Abstract:** TBA
+**Abstract:** A number of central puzzles in philosophy turn on the grammatical category of names. Two important cases are Frege's puzzle and the puzzle of Empty Names. In this talk, I'll consider how resources from higher-order logic may be used to provide new treatments of these puzzles. Millians maintain that the semantic value of a name is just an individual, which may be taken as an argument by the semantic value of a predicate. Montagovians, on the other hand, maintain that the semantic value of a name is a higher-order entity that takes the semantic value of a predicate as an argument. Drawing on recent work in higher-order logic, I'll develop a generalization of the Montagovian account and show how this account may be used to provide attractive resolutions of these two philosophical puzzles. 
 
 **Location:** Salle de réunion de l’Institut Jean Nicod, Rez-de-chaussé, Pavillon Jardin, 29 rue d’Ulm, 75005 Paris [(link google maps)](https://maps.app.goo.gl/NcC2jNzE4dQH5WUq5)
 
