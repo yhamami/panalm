@@ -37,7 +37,7 @@ This session is part of the **2nd Nancy–Irvine FaTiLLaM Workshop** on **_Forma
 
 ---
 
-## IJN Session Fall 2026: [Michael Caie](https://sites.google.com/site/caiemike/?pli=1&authuser=0) - _November 3, 11AM_
+## IJN Session Fall 2026: [Michael Caie (University of Toronto)](https://sites.google.com/site/caiemike/?pli=1&authuser=0) - _November 3, 11AM_
 
 **Title: _Names and Higher-Order Logic_**
 
