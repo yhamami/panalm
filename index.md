@@ -49,11 +49,17 @@ This session is part of the **2nd Nancy–Irvine FaTiLLaM Workshop** on **_Forma
 
 ---
 
-## IHPST Session Fall 2026: [TBA] - _TBA_
+## IHPST Session Fall 2026: [Jessica Carter (Aarhus University)](https://pure.au.dk/portal/en/persons/jessica%40css.au.dk/) - _December 9, 11AM_
 
-**Title: _TBA_**
+**Title: _Diagrams in mathematical practice_**
 
-**Abstract:** TBA
+**Abstract:** Discussions about diagrams in mathematics most often focus on their role in proofs, reasoning, and the establishment of the validity of arguments. Yet, beyond mathematical reasoning, diagrams play a range of other roles in everyday mathematical practice. They serve as tools for discovery and computation, and they contribute to understanding. In other words, they have multiple heuristic functions. These latter roles of diagrams will be the focus of my talk.
+ 
+In his influential article On Proof and Progress in Mathematics, the geometer Thurston quickly dismisses the claim that progress in mathematics is achieved by the accumulation of proofs. Instead, he finds it more interesting to discuss how mathematical understanding is attained. As he puts it, ‘what we are doing is finding ways for people to understand and think about mathematics’. I posit that signs, and diagrams in particular, play a central role in facilitating such understanding. This claim rests on the observation that human cognition is limited, and that what we are able to grasp or perceive depends, in part, on how information is presented. 
+ 
+To illustrate this point, I will present cases in which a visual re-presentation of a concept or problem has led to the introduction of new mathematical concepts or proofs. This raises the question of what it is about visual presentations that make this possible. To address this question, I consider in part the notion of a ‘free ride’ and the corresponding theoretical framework developed by Atsushi Shimojima. Shimojima’s framework includes the notions of nomic constraint, over-specification, and, importantly, semantic convention as tools for analysing free rides. I will argue that some mathematical examples conform to this framework. However, mathematical developments can also exceed it, since visual representations may generate entirely new concepts and domains that extend beyond the original target domain.  
+ 
+If time permits, I will briefly display other functions of diagrams, including their use as computational tools, and point to the properties that enable them to serve this function.
 
 **Location:** Salle de Conférence de l'IHPST, Université Paris 1 Panthéon-Sorbonne, Maison de la Philosophie-Marin Mersenne, 2nd floor, 13 rue du Four, 75006 Paris [(link google maps)](https://maps.app.goo.gl/pvNNZ2KokxKcd7iy5)
 
